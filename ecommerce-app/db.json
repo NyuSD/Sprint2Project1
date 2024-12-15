@@ -1,0 +1,85 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Industrial Gear",
+      "price": 34.99,
+      "image": "/images/gear.jpg",
+      "description": "A sturdy industrial gear made from high-grade steel.",
+      "category": "Mechanical"
+    },
+    {
+      "id": "2",
+      "name": "Hydraulic Pump",
+      "price": 189.5,
+      "image": "/images/hydraulic-pump.jpg",
+      "description": "High-performance hydraulic pump for heavy-duty machinery.",
+      "category": "Hydraulic"
+    },
+    {
+      "id": "3",
+      "name": "Roller Bearing Set",
+      "price": 24.75,
+      "image": "/images/bearing-set.jpg",
+      "description": "Durable roller bearings designed for industrial conveyors.",
+      "category": "Hardware"
+    },
+    {
+      "id": "4",
+      "name": "Conveyor Belt",
+      "price": 99,
+      "image": "/images/conveyor-belt.jpg",
+      "description": "Rubber conveyor belt suitable for factory assembly lines.",
+      "category": "Mechanical"
+    },
+    {
+      "id": "5",
+      "name": "Circuit Control Board",
+      "price": 129.99,
+      "image": "/images/circuit-board.jpg",
+      "description": "Control board for managing various electrical outputs.",
+      "category": "Electrical"
+    },
+    {
+      "id": "6",
+      "name": "Electric Motor",
+      "price": 210,
+      "image": "/images/electric-motor.jpg",
+      "description": "High-torque electric motor for multiple industrial applications.",
+      "category": "Electrical"
+    },
+    {
+      "id": "7",
+      "name": "Hydraulic Cylinder",
+      "price": 89.99,
+      "image": "/images/hydraulic-cylinder.jpg",
+      "description": "Cylinder providing linear force using hydraulic pressure.",
+      "category": "Hydraulic"
+    },
+    {
+      "id": "8",
+      "name": "Sprocket Wheel",
+      "price": 17.5,
+      "image": "/images/sprocket.jpg",
+      "description": "Steel sprocket wheel for chain-based drive systems.",
+      "category": "Mechanical"
+    },
+    {
+      "id": "9",
+      "name": "High-Tensile Bolts (Set of 20)",
+      "price": 12,
+      "image": "/images/bolts.jpg",
+      "description": "High-tensile steel bolts suitable for industrial assembly.",
+      "category": "Hardware"
+    },
+    {
+      "id": "10",
+      "name": "Fuse Panel",
+      "price": 45,
+      "image": "/images/fuse-panel.jpg",
+      "description": "Electrical fuse panel for circuit protection.",
+      "category": "Electrical"
+    }
+  ],
+  "cart": []
+}
